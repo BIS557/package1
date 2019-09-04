@@ -12,7 +12,7 @@ vignette: >
 This is a simple package to illustrate package creation, documentation, and testing.
 
 ```{r setup}
-library(p1)
+library(package1)
 hello("BIS557")
 ```
 
