@@ -1,4 +1,4 @@
 library(testthat)
-library(p1)
+library(package1)
 
-test_check("p1")
+test_check("package1")
